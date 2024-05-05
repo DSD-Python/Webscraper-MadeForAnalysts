@@ -15,9 +15,9 @@ The Webscraper is a tool for incoming analysts to utilize while conducting resea
 2. Manage file saving location on local computer to keep track of prior searches.
 
 ## Disclaimer
-This tool requires carful consideration on the side of the user. Users must enter specific keywords that are likely to yield clear and relevant results. Please avoid using single-word keywords or commonly used articles and conjunctions. Although there are filters in place to exclude the most commonly used phrases, there is no guarantee that all relevant websites will be identified from the initial keyword entry in the tool
+This tool requires careful consideration on the side of the user. Users must enter specific keywords that are likely to yield clear and relevant results. Please avoid using single-word keywords or commonly used articles and conjunctions. Although there are filters in place to exclude the most commonly used phrases, there is no guarantee that all relevant websites will be identified from the initial keyword entry in the tool.
 
 ## Future Improvements
-- **Improved Organization & Data Storage:** Introduce cloud-based storage options in addition to local storage, allowing users to access their search results from different devices securely. Implementing automated data backups can also ensure data integrity and loss prevention.
+- **Improved Organization & Data Storage:** Introduce cloud-based storage options in addition to local storage, allowing users to access their search results from different devices securely. Implementing automated data backups can also ensure data integrity and loss prevention. Or, a potential app where immediate and results from your history are stored in an organized manner for the user to refer to, from the convenience of a mobile device.   
 - **Keyword Screening:** Develop a more sophisticated keyword optimization algorithm that suggests alternative keywords or phrases based on initial user input. This could include semantic analysis to understand context and relevance, further refining search outcomes.
 - **Use of Python's Pandas:** Incorporate additional data analytics features using Python's Pandas, such as automated trend analysis and visualization tools. This would enable users to quickly identify key patterns and insights from the collected data, enhancing their decision-making process.
