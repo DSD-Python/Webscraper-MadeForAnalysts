@@ -1,6 +1,6 @@
 # Webscraper-MadeForAnalysts
 
-## Overview & Target Audeince
+## Overview & Target Audience
 
 The Webscraper is a tool for incoming analysts to utilize while conducting research on financial topics, companies, or current industry news. The goal of this application is to be used as a tool to save time in the daily prep work of analysts, allowing a one way stop to pull all articles pertaining to a specific keyword at a certain point of time from chosen News sources. The output of URLs will be saved into a user-friendly file, titled with the date and inputted keyword. Our team includes Makenzie G, Ethan H, Slok J, Lara G, Rain T, and Stacey K. 
 
